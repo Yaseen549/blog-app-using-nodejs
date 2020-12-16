@@ -6,4 +6,4 @@
 
 <img src="images/journal3.jpg" width="700" height="360">
 
-## Live preview not available
+### Live preview not available
